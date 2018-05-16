@@ -2,7 +2,7 @@ var JsBarcode = require('jsbarcode');
 
 var VueBarcode = {
   template: '<div>' +
-    '<svg class="vue-barcode-element" v-show="valid"></svg>'+
+    '<img class="vue-barcode-element" v-show="valid">'+
     '<div v-show="!valid">'+
       '<slot></slot>'+
     '</div>'+

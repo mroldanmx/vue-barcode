@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lindell/vue-barcode.git"
+    "url": "git+https://github.com/mroldanmx/vue-barcode.git"
   },
   "author": "Johan Lindell",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lindell/vue-barcode/issues"
+    "url": "https://github.com/mroldanmx/vue-barcode/issues"
   },
-  "homepage": "https://github.com/lindell/vue-barcode#readme",
+  "homepage": "https://github.com/mroldanmx/vue-barcode#readme",
   "dependencies": {
     "jsbarcode": "^3.5.8"
   }

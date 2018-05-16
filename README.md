@@ -1,5 +1,7 @@
 # VueBarcode
 
+## Quick and dirty change to generate img barcodes based on lindell's app
+
 Add barcodes to your Vue application super easily with VueBarcode! [Try it out!](http://jsfiddle.net/hfgan035/13/)
 
 Supported barcode formats:
