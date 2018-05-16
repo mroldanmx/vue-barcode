@@ -1,7 +1,7 @@
 {
-  "name": "vue-barcode",
-  "version": "1.1.0",
-  "description": "",
+  "name": "vue-barcode-img",
+  "version": "1.1.1",
+  "description": "The same as lindell's, but using a img. Quick and dirty because time.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/mroldanmx/vue-barcode.git"
   },
-  "author": "Johan Lindell",
+  "author": "Martin Roldan",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mroldanmx/vue-barcode/issues"
